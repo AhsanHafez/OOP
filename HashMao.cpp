@@ -38,7 +38,7 @@ class HashMaps{
                 return x->value;
             }
         }
-        throw "APNE MAAA MAT ...";
+        throw "Key Not found";
     }
 void remove(int key)
 {
